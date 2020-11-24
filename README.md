@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a server-client based console application. The server and the client is created using object oriented approach. The client send a link to the server. The server counts the number of the images and the leaf paragraph nodes (a paragraph that does not have another paragraph inside) and sends it to the client. 
+This is a server-client based console application. The server and the client is created using object oriented approach. The client sends a link to the server. The server counts the number of the images and the leaf paragraph nodes (a paragraph that does not have another paragraph inside) and sends it to the client. 
 
 ## Installation
 
