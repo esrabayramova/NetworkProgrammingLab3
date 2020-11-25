@@ -4,8 +4,8 @@ from requests.exceptions import MissingSchema, SSLError, ConnectionError
 
 class Node:
 	def __init__(self, data):
-    	self.data = data
-    	self.children = []
+    		self.data = data
+    		self.children = []
 
 class Server:
 	MAX_BYTES = 65535
